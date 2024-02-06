@@ -22,7 +22,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/akith-nimpura-5825b2282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akith nimpura" height="30" width="40" /></a>
-<a href="https://fb.com/akith nimpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akith nimpura" height="30" width="40" /></a>
+<a href="https://web.facebook.com/akith.nimpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akith nimpura" height="30" width="40" /></a>
 <a href="https://www.instagram.com/akith_nimpura/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_theekshana_d" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ABYSu6MpkS" height="30" width="40" /></a></p>
 
