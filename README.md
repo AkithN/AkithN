@@ -1,6 +1,7 @@
 ![MasterHead](https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0)
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Akith Nimpura</h1>
+
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akithn&label=Profile%20views&color=0e75b6&style=flat" alt="akithn" /> </p>
 
