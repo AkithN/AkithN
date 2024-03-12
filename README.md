@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at NIBM
 
-- 🌱 I’m currently learning **Mobile Application Development With Android Studio**
+- 🌱 I’m currently learning **Mobile Application Development With Android Studio** & **Figma**
 
 - 💬 Ask me about **Java**
 
