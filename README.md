@@ -9,9 +9,9 @@
 
 - 🧑‍🎓 I’m an Undergraduate at NIBM
 
-- 🌱 I’m currently learning **AI/ML** 
+- 🌱 I’m currently learning **AI / ML** 
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React / Node**
 
 - 📫 How to reach me **mpakithn@gmail.com**
 
