@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at NIBM
 
-- 🌱 I’m currently learning **Laravel** 
+- 🌱 I’m currently learning **AI/ML** 
 
 - 💬 Ask me about **React**
 
