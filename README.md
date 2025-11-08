@@ -7,7 +7,7 @@
 
 
 
-- 🧑‍🎓 I’m an Undergraduate at NIBM
+- 🧑‍🎓 I’m an Undergraduate at SLIIT CITY UNI
 
 - 🌱 I’m currently learning **AI / ML** 
 
